@@ -15,7 +15,7 @@ type Props = {
 
 class PlayBack extends React.Component<Props> {
 
-    constructor(props: Props) {
+    constructor (props: Props) {
         super(props);
     }
 
