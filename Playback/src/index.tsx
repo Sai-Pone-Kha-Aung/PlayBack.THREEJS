@@ -6,6 +6,6 @@ const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
-  <PlayBack motionURL={'./model/Dance (1).fbx'} motionType={'fbx'} videoURL={'./video/Dance_.mp4'}/>
+  <PlayBack motionURL={'./model/Ronnie.glb'} motionType={'glb'} videoURL={'./video/Dance_.mp4'}/>
 );
 
